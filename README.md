@@ -1,3 +1,5 @@
+> **Moved 2026-10-04.** Canonical copy lives in the kk-kb monorepo at [`content/projects/01-vancouver-ai-community/special-features/hackathons/rival-2024-2025/round-3-bc-ai/vanai-hackathon-003/`](https://github.com/WalksWithASwagger/kk-kb/tree/main/content/projects/01-vancouver-ai-community/special-features/hackathons/rival-2024-2025/round-3-bc-ai/vanai-hackathon-003) (source commit `e4cb6e9663b1`). Large media is in private Drive — see PROVENANCE.md there. This repo will be archived read-only.
+
 # ■ Vancouver AI Hackathon Round 3: BC AI Survey Data
 
 Survey data from 1,001 British Columbians on artificial intelligence.
